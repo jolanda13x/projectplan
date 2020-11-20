@@ -5,3 +5,4 @@
 - Do implementation
 - Testing
 - Deploy finished product
+- selling
