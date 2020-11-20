@@ -1,3 +1,4 @@
 - Do research
 - Do requirement analysis
 - Do implementation
+- Read a book
