@@ -1,4 +1,6 @@
 - Do research
+- Read a book
+- Conduct Interview
 - Do requirement analysis
 - Do implementation
-- Read a book
+
