@@ -3,4 +3,5 @@
 - Conduct Interview
 - Do requirement analysis
 - Do implementation
-
+- Testing
+- Deploy finished product
