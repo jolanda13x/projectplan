@@ -2,3 +2,4 @@
 - Do requirement analysis
 - Do implementation
 - Read a book
+- Conduct Interview
